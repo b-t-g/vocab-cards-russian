@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-__all__ = ["clean_and_extract_words"]
+__all__ = ["text_processing"]
