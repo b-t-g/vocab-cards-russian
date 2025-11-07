@@ -18,5 +18,5 @@ resolved_reference = "581b5aec644b134afd834dc6b23e62ab2baabdae"
 
 [metadata]
 lock-version = "2.1"
-python-versions = ">=3.13"
-content-hash = "77a03f9d49923c918b1afbeafe88cb5cda0fb95d862409632c933b466d882d0e"
+python-versions = ">=3.11,<3.14"
+content-hash = "dd10ff494d06b5a9b3262f6eba209ac01d64450064ae1aecb1c964daa774e7b7"
