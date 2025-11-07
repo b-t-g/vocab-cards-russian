@@ -1,0 +1,18 @@
+[project]
+name = "vocab-cards-russian"
+version = "0.1.0"
+description = "Russian-specific logic for vocab cards project"
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
+license = {text = "GPL"}
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "hunspell @ git+https://github.com/b-t-g/pyhunspell.git"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
